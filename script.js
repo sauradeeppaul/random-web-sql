@@ -1,4 +1,4 @@
-document.getElementID("footer01").innerHTML = 
+document.getElementID("footer01").innerHTML = 	
 "<p>&copy;" + new Date().getFullYear() + "(c) Sauradeep Paul</p>";
 
 document.getElementById("navigation01").innerHTML =
